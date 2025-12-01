@@ -1,3 +1,2 @@
-
-I have learned how to use Git, GitHub, Braches, commits, pull requests, and forking.
-This course has helped me understand collaboration in software engineering.
+What I learnt form this course
+From this course, I have learned how to use Git and GitHub to manage code, create branches, make commits, work with pull requests, and collaborate with others effectively. I now understand version control workflows and feel more confident in using Git as a developer tool.
