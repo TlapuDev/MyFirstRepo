@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+My name is Phemelo Tlapu. I am currently studying software engineering and learning Git and GitHub. I enjoy building projects, solving problems, and improving my skills every day.
+
+I am excited to learn more about version control and become confident with tools like Git, GitHub, and Linux as part of my ALX course.
